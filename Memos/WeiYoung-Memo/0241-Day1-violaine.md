@@ -19,3 +19,30 @@ MathJax basic tutorial and quick reference
 DOT语法  
 http://www.graphviz.org/doc/info/lang.html  
 # Git使用
+## Git
+- Git是一套协议，实现了分布式版本管理  
+- Git的核心概念Repo仓库及其管理
+- Git上项目的操作步骤：
+    - Repo Dir，建仓库
+    - Add，加文件
+    - Commit，提交创建或修改Commit Change
+    - Push Remote,各成员反馈意见
+    - Merge，编辑汇总、合并等
+    - Release，合并发行
+- http://rogerdudler.github.io/git-guide/
+## 实践Github
+**Github**  
+- 代码仓库克隆：fork
+- 贡献代码：pull request  
+
+**Git客户端**  
+- 代码仓库克隆：clone
+- 贡献代码: push
+- 拉取代码：pull  
+
+**Git add**  
+- 创建*.md
+- git add *.md
+- git commit-a
+- git push
+
